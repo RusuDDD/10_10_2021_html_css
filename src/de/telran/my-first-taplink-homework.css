@@ -1,0 +1,86 @@
+body {
+    padding-top: 1px ;
+    background-color: #39538b;
+    font-weight: bold;
+
+}
+.taplink {
+    text-align: left;
+    color: black;
+    background-color: white;
+    border: white solid 5px ;
+    border: white solid 5px ;
+    font-size: 25px;
+    font-size: 35px;
+    padding: 35px;
+    margin: 1px;
+}
+.barcelona {
+    width: 180px; display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 120px;
+
+}
+.clubtort {
+    text-align: center;
+    background-color: #39538b;
+    border: white 3px ;
+    font-size: 35px;
+    padding-left: 5px;
+    color: white;
+
+}
+.shop {
+    text-align: center;
+    background-color: #39538b;
+    border: white solid 3px ;
+    font-size: 25px;
+    line-height: 40px;
+    color: white;
+    padding: 25px;
+    margin: 25px;
+}
+.ingredients {
+    text-align: center;
+    background-color: #39538b;
+    border: white solid 3px ;
+    font-size: 25px;
+    line-height: 40px;
+    color: white;
+    padding: 25px;
+    margin: 25px;
+}
+.instruments {
+    text-align: center;
+    background-color: #39538b;
+    border: white solid 3px ;
+    font-size: 25px;
+    line-height: 40px;
+    color: white;
+    padding: 25px;
+    margin: 25px;
+}
+.packaging {
+    text-align: center;
+    background-color: #39538b;
+    border: white solid 3px ;
+    font-size: 25px;
+    line-height: 40px;
+    color: white;
+    padding: 25px;
+    margin: 25px;
+}
+.food {
+    text-align: center;
+    background-color: #39538b;
+    border: white solid 3px ;
+    font-size: 25px;
+    line-height: 40px;
+    color: white;
+    padding: 25px;
+    margin: 25px;
+}
+
+
+
